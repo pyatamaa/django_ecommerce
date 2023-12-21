@@ -9,3 +9,6 @@ Untuk menjalankan project ini anda harus menginstal beberapa files menggunakan p
 
 # Environmen
 Pada project ini saya menggunakan virtual environmen, untuk menjalankan virtual environmen anda bisa mengetik ``pipenv --venv`` pada cmd terminal anda
+
+# Note
+Untuk mengaktifkan slider gambar maka anda bisa membuat folder baru didalam static dengan nama images, kemudian masukkan 4 foto pilihan anda dengan perbandingan ukuran 16:9 dan kemudian setiap foto yang sudah anda masukkan bisa anda ganti namanya menjadi 1,2,3,4 secara berurutan. Selamat mencoba :)
