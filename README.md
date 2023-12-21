@@ -1,5 +1,5 @@
 # django_ecommerce
-project  web ecommerce menggunakan django
+project web ecommerce menggunakan framework python yaitu django
 
 # Requirement
 Untuk menjalankan project ini anda harus menginstal beberapa files menggunakan pip pada cmd anda, diantaranya :
