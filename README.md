@@ -4,7 +4,7 @@ project web ecommerce menggunakan framework python django
 # Requirement
 Untuk menjalankan project ini anda harus menginstal beberapa files menggunakan pip pada cmd anda, diantaranya :
 1. ``pip install Pillow`` (untuk menampilkan gambar pada web)
-2. ``pip install jazzmin`` (untuk mengubah halaman dashboard admin anda agar lebih menarik)
+2. ``pip install django-jazzmin`` (untuk mengubah halaman dashboard admin anda agar lebih menarik)
 3. ``pip install mysqlclient`` (untuk menghubungkan ke database MySQL)
 
 # Environment
